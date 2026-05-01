@@ -1,5 +1,5 @@
 {
-    "amp.mcpServers": {
+    "mcpServers": {
         "laravel-boost": {
             "command": "php",
             "args": [
